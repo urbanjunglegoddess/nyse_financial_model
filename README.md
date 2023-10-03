@@ -1,5 +1,3 @@
-# Blog Post
-
 ## Overview
 
 This project involves analyzing real-life data from the New York Stock Exchange. The dataset used is a subset of a larger dataset obtained from Kaggle, which contains historical financial data from S&P 500 companies. The goal of this project is to calculate summary statistics, draw inferences from the statistics, calculate business metrics, and use models to forecast future growth prospects for the companies.
@@ -8,18 +6,14 @@ This project involves analyzing real-life data from the New York Stock Exchange.
 
 The project consists of three main tasks:
 
-  
-
 1. Data Analysis and Presentation: Conduct your own data analysis and create a presentation to share your findings. Identify a question about the data that you will answer based on your analysis, including at least one categorical variable and one quantitative variable. Use summary statistics to support your answer and include visualizations in your presentation.
 2. Profit and Loss Statement Dashboard: Develop a dashboard for a Profit and Loss Statement. The dashboard should calculate Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list. It should include historical data for all available years.
 3. Financial Forecasting Model: Create a financial model for a different company of your choice. The model should forecast Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case). Each scenario should have different assumptions for revenue growth, gross margin, and operating margin.
 
   
-
 The project requires the use of Excel or Google Sheets functions, as well as the ability to analyze and interpret measures of central tendency and spread. Visualizations and communication skills are also important for presenting the results effectively.
 
   
-
 The deliverables for this project include a slide presentation with visualizations and summary information, a spreadsheet with summary statistics, a dynamic Profit and Loss Statement dashboard, and a forecasting model spreadsheet.
 
   
@@ -67,7 +61,7 @@ By the end of the project I will achieve the goal of demonstrating proficiency i
 
 Steps taken to preprocess data
 
-*       *   Create a duplicate of the raw data
+  *   Create a duplicate of the raw data
     *   Renamed the duplicate sheet
     *   Used the insert table feature to transform the existing information into a table
     *   Identify the missing values
